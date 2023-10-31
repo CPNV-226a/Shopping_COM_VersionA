@@ -42,9 +42,9 @@ Application de gestion de panier de courses.
 *Généralités*
 * Vous devez réussir à passer les tests qui sont actuellement en erreur.
 * Ne pas déstabiliser les tests actuels.
-* Les valeurs retournées par les classes métiers doivent être calculées (par retour codé en dure)
+* Les valeurs retournées par les classes métiers doivent être calculées (pas de retour codé en dur)
 
-*Qualité du livrabe*
+*Qualité du livrable*
 * Respect des consignes de livraison.
 * Respect des principes POO.
 * Les classes de tests ne doivent avoir subi aucune modification.
